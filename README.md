@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ <a href="https://app.daily.dev/Badisse"><img src="https://api.daily.dev/devcards/25fd63c9a6bf4ba9a3e332f7df31d0c2.png?r=uzc" width="400" alt="Baadisse's Dev Card"/></a>
 </div>
 
 ---
