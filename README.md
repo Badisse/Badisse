@@ -14,10 +14,6 @@
   </h1>
 </div>
 
-<div align="center">
- <a href="https://app.daily.dev/Badisse"><img src="https://api.daily.dev/devcards/25fd63c9a6bf4ba9a3e332f7df31d0c2.png?r=uzc" width="400" alt="Baadisse's Dev Card"/></a>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
@@ -59,4 +55,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badisse&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div align="center">
+ <a href="https://app.daily.dev/Badisse"><img src="https://api.daily.dev/devcards/25fd63c9a6bf4ba9a3e332f7df31d0c2.png?r=uzc" width="400" alt="Baadisse's Dev Card"/></a>
+</div>
